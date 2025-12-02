@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer at Cornell University</h3>
 
-- 🔭 I’m currently working on [a Crypto Betting Simulation App](https://github.com/CornellBlockchain/slope)
+- 🔭 I’m currently working on [a Crypto Betting Simulation App](https://github.com/CornellBlockchain/slope) and a [Landlord-Tenant Housing Portal](https://github.com/DanTheCodingMan123/property-management-app)
 
 - 🌱 I’m currently learning **about databases and websockets.**
 
